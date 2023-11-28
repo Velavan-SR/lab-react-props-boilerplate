@@ -1,0 +1,15 @@
+/* add your styles here */
+
+.pic{
+    display: grid;
+    grid-template-columns: 49vw 49vw;
+    gap: 1vw;
+}
+
+img{
+    width: 49vw;
+}
+
+h1{
+    text-align: center;
+}
